@@ -1,0 +1,22 @@
+
+NOTE: When declaring or reading value for a variable $ sign is not needed
+But when you are accessing a variable $ sign in needed
+
+$REPLY variable is a default system variable which will store value.
+
+unset: unset is like deleting a variable and 
+       if again this same variable name is define it will define new variable with new location
+
+readonly: readonly make variable constant, 
+          and if we are declaring  variable as contant then at that time only it need to be assign a value.
+
+NOTE: When assigning a value to variable, no whitespace should be there in between
+	Wrong Example: VARIABLE_NAME = "VAR_VALUE"; 
+	Right Example: VARIABLE_NAME="VAR_VALUE";   //no any space in between operator
+
+Types of Variable:
+Variable is nothing but a pointer or location in the memory where given value is stored.
+in shell there are two types of varible
+1. environment variable
+2. shell (local) variable
+
