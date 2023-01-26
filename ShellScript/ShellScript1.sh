@@ -1,4 +1,3 @@
-
 #Shell Script introduciton
 #Using shell script we can execute multiple unix command at a time.
 # NOTE: Go to Edit menu --> EOL Conversion --> Select UNIX.
